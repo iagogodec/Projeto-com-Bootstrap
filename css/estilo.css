@@ -1,0 +1,102 @@
+html{
+  scroll-behavior: smooth;  
+}
+   
+
+.back{
+background-color: rgb(243, 247, 247);    
+}
+
+.top{
+ width: 100%;   
+ height: auto;
+}
+
+.hst{
+margin-top: 2em;
+margin-left:5px ;   
+text-align: center; 
+}
+.phs{
+ margin-top: 15px;
+ margin-left: 4em;
+ margin-right: 4em;    
+}
+
+
+.kam{
+ margin-top: 1em;   
+ text-align: center; 
+}
+
+.kamp{
+
+margin-top: 15px;
+margin-right: 4em;
+margin-left: 4em;
+}
+
+.hyt{
+ margin-top: 1em;   
+text-align: center;   
+}
+
+.hyp{
+ 
+ margin-top: 15px;
+ margin-left: 4em;
+ margin-right: 4em;
+}
+
+.ypt{
+ margin-top: 1em;   
+ text-align: center; 
+
+}
+
+.ypp{
+ margin-left: 4em;
+ margin-top: 15px;  
+ margin-right: 4em;  
+}
+
+.yct{
+margin-top: 1em;
+text-align: center;   
+}
+
+.ycp{
+margin-left: 4em; 
+margin-top: 15px;   
+margin-right: 4em; 
+}
+
+.ypoct{
+ margin-top: 1em;  
+ text-align: center;  
+}
+
+.ypocp{
+margin-left: 4em;
+margin-top:15px;
+margin-right: 4em;
+}
+
+.contt{
+margin-top: 1em;
+margin-left:2.2em ;   
+text-align: left;  
+
+}
+
+.contp{
+margin-left: 4em;
+margin-top: 15px;
+}
+
+.container{
+ display:flex; 
+ width: auto; 
+ margin-top: 10px;
+ }
+
